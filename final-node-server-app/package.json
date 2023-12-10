@@ -1,10 +1,12 @@
 {
+  "type": "module", 
   "name": "final-node-server-app",
   "version": "1.0.0",
   "description": "Node.js HTTP web server for final project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
