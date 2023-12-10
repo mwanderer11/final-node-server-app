@@ -1,0 +1,22 @@
+{
+  "name": "final-node-server-app",
+  "version": "1.0.0",
+  "description": "Node.js HTTP web server for final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwanderer11/final-node-server-app.git"
+  },
+  "author": "Malia wanderer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwanderer11/final-node-server-app/issues"
+  },
+  "homepage": "https://github.com/mwanderer11/final-node-server-app#readme",
+  "dependencies": {
+    "mongoose": "^8.0.3"
+  }
+}
